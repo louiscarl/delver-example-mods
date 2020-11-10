@@ -1,5 +1,5 @@
-# delver-example-mods
-A collection of example mods for the game Delver.
+# delver-community-mods
+A collection of community mods for the game Delver.
 
 ## Installation
 1. Click the 'Clone or Download' button and select 'Download ZIP'.
@@ -15,6 +15,7 @@ A collection of example mods for the game Delver.
 
 ## Contributors
 - Elias Ball - [blue1stone](https://github.com/blue1stone)
+- Felix Siebeneicker - [PythooonUser](http://github.com/PythooonUser)
 - Javier Leal Cortés - [JavierLealCortes](http://github.com/JavierLealCortes)
 - Chad Cuddigan - [Interrupt](http://github.com/Interrupt)
 - Louis Carl Pepin - [louiscarl](http://github.com/louiscarl)
